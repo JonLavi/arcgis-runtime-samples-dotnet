@@ -142,7 +142,7 @@ namespace ArcGISRuntime.WPF.Samples.ClosestFacilityStatic
             // Holds locations of hospitals around San Diego.
             List<Facility> facilities = new List<Facility>();
 
-            // Holds locations of hospitals around San Diego.
+            // Holds locations of incidents around San Diego.
             List<Incident> incidents = new List<Incident>();
 
             // Create query parameters to select all features.
